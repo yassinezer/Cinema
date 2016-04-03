@@ -5,7 +5,7 @@ open command prompt for windows:
 
 1-try cd $Project_Home/Cinema-master/TestN_01
 
-2-try mvn clean packege tomcat7:run
+2-try mvn clean package tomcat7:run
 
 ###Test The Project
 
